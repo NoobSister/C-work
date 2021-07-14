@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01_HelloWorld"
+    "\\01_HelloWorld",
+    "\\03_InputOutput"
   ],
-  "SelectedNode": "\\C_Study.sln",
+  "SelectedNode": "\\03_InputOutput\\303_input.c",
   "PreviewInSolutionExplorer": false
 }
