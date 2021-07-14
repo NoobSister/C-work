@@ -13,10 +13,10 @@ int main()
 	scanf("%d", &kor);  // 키보드로부터 정수 한 개 입력 -> kor 변수에 대입
 						// 대입 받을 변수명 앞에는 & 붙이기
 
-	printf("국어점수를 입력하세요 :");
+	printf("영어점수를 입력하세요 :");
 	scanf("%d", &eng);
 
-	printf("국어점수를 입력하세요 :");
+	printf("수학점수를 입력하세요 :");
 	scanf("%d", &math);
 
 	printf("입력한 점수는 %d, %d, %d입니다\n", kor, eng, math);
