@@ -3,10 +3,10 @@
 /* ■ 지역변수 (local variable)
 *   블럭 :  {  .... }
 *
-*   블럭 안에서 선언된 변수는 선언이후 블럭안에서만 사용가능함
+*   블럭 안에서 선언된 변수는 선언이후 블럭 안에서만 사용가능함
 *   블럭이 끝나면 해당 이름의 변수는 사용 불가
 *
-*   이러한 변수를 지역변수(local variable) 이라 하고
+*    이러한 변수를 지역변수(local variable) 이라 하고
 *    local scope (지역 범위) 를 갖는다 라고 말합니다.
 *    scope 는 해당 이름을 사용할수 있는 범위
 *
@@ -31,7 +31,7 @@ int main()
 		printf("grade = %d\n", grade);
 		YEAR = 1988;
 	} // 블럭의 끝. 블럭 안에서 선언된 변수는 더이상 사용 못한다
-	//printf("a = %d\n", a);
+	  //printf("a = %d\n", a);
 
 	printf("YEAR = %d\n", YEAR);
 
