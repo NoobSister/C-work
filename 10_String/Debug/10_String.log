@@ -1,0 +1,15 @@
+﻿  1001_string.c
+D:\Dev\C_WORK\10_String\1001_string.c(57,24): warning C4013: 'strlen'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(63,19): warning C4013: 'strcmp'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(88,9): warning C4013: 'strcpy'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(107,9): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(115,21): warning C4013: 'strchr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(129,30): warning C4047: '=': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\Dev\C_WORK\10_String\1001_string.c(139,21): warning C4013: 'strstr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(153,46): warning C4013: 'strupr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(153,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\Dev\C_WORK\10_String\1001_string.c(154,46): warning C4013: 'strlwr'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Dev\C_WORK\10_String\1001_string.c(154,10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+D:\Dev\C_WORK\10_String\1001_string.c(115,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+D:\Dev\C_WORK\10_String\1001_string.c(139,1): warning C4047: '초기화 중': 'char *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+  10_String.vcxproj -> D:\Dev\C_WORK\Debug\10_String.exe
