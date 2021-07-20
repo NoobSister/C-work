@@ -118,7 +118,7 @@ int main()
 	result = -10 && -100;
 	printf("result = %d\n", result);  // 1
 
-	// 1 : not 연산자
+	// ! : not 연산자
 	result = 54 % 2 == 0;
 	printf("result = %d\n", result);  // 1
 
